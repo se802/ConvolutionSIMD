@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall  -pg  -g CMakeFiles/Homework3.dir/BMP_Processor_Serial_std.c.o -o Homework3 

@@ -1,0 +1,100 @@
+./BMP_Processor_Serial_std.out 1 lady.bmp
+0.35 Sec.
+./BMP_Processor_Serial_std.out 2 lady.bmp
+0.67 Sec.
+./BMP_Processor_Serial_std.out 3 lady.bmp
+1.18 Sec.
+./BMP_Processor_Serial_std.out 4 lady.bmp
+1.87 Sec.
+./BMP_Processor_Serial_std.out 5 lady.bmp
+2.81 Sec.
+./BMP_Processor_Serial_std.out 6 lady.bmp
+3.76 Sec.
+./BMP_Processor_Serial_std.out 7 lady.bmp
+4.94 Sec.
+./BMP_Processor_Serial_std.out 8 lady.bmp
+5.93 Sec.
+./BMP_Processor_Serial_std.out 9 lady.bmp
+7.73 Sec.
+./BMP_Processor_Serial_std.out 10 lady.bmp
+9.93 Sec.
+./BMP_Processor_Serial_std.out 1 animal_small.bmp
+0.77 Sec.
+./BMP_Processor_Serial_std.out 2 animal_small.bmp
+1.53 Sec.
+./BMP_Processor_Serial_std.out 3 animal_small.bmp
+2.69 Sec.
+./BMP_Processor_Serial_std.out 4 animal_small.bmp
+4.55 Sec.
+./BMP_Processor_Serial_std.out 5 animal_small.bmp
+5.67 Sec.
+./BMP_Processor_Serial_std.out 6 animal_small.bmp
+7.56 Sec.
+./BMP_Processor_Serial_std.out 7 animal_small.bmp
+10.75 Sec.
+./BMP_Processor_Serial_std.out 8 animal_small.bmp
+14.33 Sec.
+./BMP_Processor_Serial_std.out 9 animal_small.bmp
+17.18 Sec.
+./BMP_Processor_Serial_std.out 10 animal_small.bmp
+20.55 Sec.
+./BMP_Processor_Serial_std.out 1 animal.bmp
+19.97 Sec.
+./BMP_Processor_Serial_std.out 2 animal.bmp
+39.63 Sec.
+./BMP_Processor_Serial_std.out 3 animal.bmp
+67.15 Sec.
+./BMP_Processor_Serial_std.out 4 animal.bmp
+109.93 Sec.
+./BMP_Processor_Serial_std.out 5 animal.bmp
+154.81 Sec.
+./BMP_Processor_Serial_std.out 6 animal.bmp
+211.33 Sec.
+./BMP_Processor_Serial_std.out 7 animal.bmp
+304.06 Sec.
+./BMP_Processor_Serial_std.out 8 animal.bmp
+370.32 Sec.
+./BMP_Processor_Serial_std.out 9 animal.bmp
+412.02 Sec.
+./BMP_Processor_Serial_std.out 10 animal.bmp
+493.22 Sec.
+./BMP_Processor_Serial_std.out 1 BackgroundRadiationMap.bmp
+13.41 Sec.
+./BMP_Processor_Serial_std.out 2 BackgroundRadiationMap.bmp
+23.90 Sec.
+./BMP_Processor_Serial_std.out 3 BackgroundRadiationMap.bmp
+40.17 Sec.
+./BMP_Processor_Serial_std.out 4 BackgroundRadiationMap.bmp
+61.69 Sec.
+./BMP_Processor_Serial_std.out 5 BackgroundRadiationMap.bmp
+88.61 Sec.
+./BMP_Processor_Serial_std.out 6 BackgroundRadiationMap.bmp
+125.55 Sec.
+./BMP_Processor_Serial_std.out 7 BackgroundRadiationMap.bmp
+168.13 Sec.
+./BMP_Processor_Serial_std.out 8 BackgroundRadiationMap.bmp
+204.75 Sec.
+./BMP_Processor_Serial_std.out 9 BackgroundRadiationMap.bmp
+251.25 Sec.
+./BMP_Processor_Serial_std.out 10 BackgroundRadiationMap.bmp
+314.76 Sec.
+./BMP_Processor_Serial_std.out 1 photo3.bmp
+0.20 Sec.
+./BMP_Processor_Serial_std.out 2 photo3.bmp
+0.21 Sec.
+./BMP_Processor_Serial_std.out 3 photo3.bmp
+0.34 Sec.
+./BMP_Processor_Serial_std.out 4 photo3.bmp
+0.53 Sec.
+./BMP_Processor_Serial_std.out 5 photo3.bmp
+0.78 Sec.
+./BMP_Processor_Serial_std.out 6 photo3.bmp
+1.05 Sec.
+./BMP_Processor_Serial_std.out 7 photo3.bmp
+1.28 Sec.
+./BMP_Processor_Serial_std.out 8 photo3.bmp
+1.69 Sec.
+./BMP_Processor_Serial_std.out 9 photo3.bmp
+2.08 Sec.
+./BMP_Processor_Serial_std.out 10 photo3.bmp
+2.45 Sec.

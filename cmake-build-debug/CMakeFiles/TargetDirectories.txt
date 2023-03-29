@@ -1,0 +1,3 @@
+/home/stelios/CLionProjects/ConvolutionSerial/cmake-build-debug/CMakeFiles/Homework3.dir
+/home/stelios/CLionProjects/ConvolutionSerial/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/stelios/CLionProjects/ConvolutionSerial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
