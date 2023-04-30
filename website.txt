@@ -1,6 +1,0 @@
-Details about the algorithm:
-    https://lodev.org/cgtutor/filtering.html
-    Ucy Convolution Algorithm
-
-Edge Detection Filters:
-    https://www.researchgate.net/figure/Discrete-approximation-of-the-Gaussian-kernels-3x3-5x5-7x7_fig2_325768087
