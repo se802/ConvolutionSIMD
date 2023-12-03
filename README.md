@@ -13,7 +13,7 @@ To run this project, you need:
 
 ## Installation
 
-To install the project, simply clone the repository::
+To install the project, simply clone the repository:
 
 ## Implementation 
 
